@@ -13,4 +13,6 @@ Test task for new candidate
 7. 
 ![Table](Table.JPG)
 
-7. Use CSS to make the table look modern and clean.
+7. Use CSS to make the table look modern and clean (You can use example below or design Your own).
+
+![CSS example](responsive-table-detail-view-1.png)
