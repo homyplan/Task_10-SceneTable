@@ -8,8 +8,8 @@ Test task for new candidate
 ![Simple room](SimpleRoom2.JPG)
 
 4. Add a button to the interface which opens the popup window (div) with a table of elements sorted by type
-5. Fill the table with some of them properties (listed below)
-6. Ad an action for selecting elements inside the table row
+5. Fill the table with some of their properties (listed below)
+6. Add an action for selecting elements inside the table row to select elements in the scene.
 
 ![Table](Table.JPG)
 
