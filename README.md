@@ -10,7 +10,7 @@ Test task for new candidate
 
 5. Add a button to the interface which opens the popup window (div) with a table of elements sorted by type
 6. Fill the table with some of them properties (listed below)
-7. 
+
 ![Table](Table.JPG)
 
 7. Use CSS to make the table look modern and clean (You can use example below or design Your own).
