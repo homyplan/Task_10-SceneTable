@@ -6,7 +6,7 @@ Test task for new candidate
 2. Install and run the application
 3. Prepare simple room with walls, doors, windows and some furniture
 4. 
-![Simple room](SimpleRoom.JPG)
+![Simple room](SimpleRoom2.JPG)
 
 5. Add a button to the interface which opens the popup window (div) with a table of elements sorted by type
 6. Fill the table with some of them properties (listed below)
