@@ -3,7 +3,7 @@ Test task for new candidate
 
 1. Clone repo https://github.com/homyplan/react-planner-test.git which is forked form https://github.com/cvdlab/react-planner
 2. Install and run the application
-3. Prepare simple room with walls, doors, windows and some furniture
+3. Prepare simple room with walls, doors, windows and some furniture after familiarizing with application workflow
 
 ![Simple room](SimpleRoom2.JPG)
 
